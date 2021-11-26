@@ -38,7 +38,7 @@ _and view some screenshots [here]()._(coming soon)
 
 
 ### CreakyDuck 
-_Is the best man to exist.
+Is the best man to exist.
 
-_Hye loves Creaky xoxo...
+Hye loves Creaky xoxo...
 
