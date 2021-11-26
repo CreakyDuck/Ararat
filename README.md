@@ -1,4 +1,4 @@
-# Hye Ararat
+# Hye-Creaky Ararat
 
 Ararat Panel is a panel/dashboard dedicated to management of any server. The idea is simple, its your one stop shop for linux instances.
 
@@ -36,4 +36,9 @@ _Read the changelog [here]()_(coming soon)
 
 _and view some screenshots [here]()._(coming soon)
 
+
+### CreakyDuck 
+_Is the best man to exist.
+
+_Hye loves Creaky xoxo...
 
